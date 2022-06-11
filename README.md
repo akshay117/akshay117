@@ -13,7 +13,7 @@
 - [LinkedIn]: [ www.linkedin.com/in/akshay-v-anil-8691ba7b ]      
 [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
            
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay117"/>
 
 ## My GitHub Stats ⚡
 
