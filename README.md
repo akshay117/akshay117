@@ -6,8 +6,8 @@
 - 💬 Ask me anything related to Java, DSA I'll try my best to help.
 - 📫 How to reach me: 
 
-- [Email] : [ akshayvanil117@gmail.com  ]   [![Gmail Badge](https://img.shields.io/badge/-akshayvanil117@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayvanil117@gmail.com)](mailto:akshayvanil117@gmail.com)
-- [LinkedIn]: [ www.linkedin.com/in/akshay-v-anil-8691ba7b ]   [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
+- [Email] :   [![Gmail Badge](https://img.shields.io/badge/-akshayvanil117@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayvanil117@gmail.com)](mailto:akshayvanil117@gmail.com)
+- [LinkedIn]:   [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
         
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay117"/>
 
