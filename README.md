@@ -1,4 +1,4 @@
-### Hi 👋
+### Hey, I am Akshay 👋
 
 - Software Engineer @UST
 - :books: Completed B.Tech in Computer Science 
