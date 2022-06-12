@@ -11,6 +11,14 @@
         
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay117"/>
 
+<!-- LeetCode Stats Card ❤️ -->
+<h2 align="left"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="left">
+  <a href="https://leetcode.com/akshayvanil" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=akshayvanil&theme=light&font=source_code_pro&extension=activity&border_radius=20"/>
+  </a>
+</p>
+
 ## My GitHub Stats ⚡
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay117&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
