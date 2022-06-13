@@ -10,6 +10,18 @@
 - [LinkedIn]:   [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
 
 
+<h2 align="left"> 💻 Coding Profiles:</h2>
+<br/>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/akshayvanil117"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@akshayvanil117"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://leetcode.com/akshayvanil/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/follen_ghost"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/akshay117"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"><a/>
+  
+</p>
+
 
 <div align="left">
         <h2><img width="30" align="center"
