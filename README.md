@@ -1,6 +1,6 @@
 ### Hey, I am Akshay 👋
 
-- Software Engineer @UST
+-  TCSer
 - :books: Completed B.Tech in Computer Science 
 - 🔭 I’m currently working on improving my coding skills.
 - 💬 Ask me anything related to Java, DSA I'll try my best to help.
