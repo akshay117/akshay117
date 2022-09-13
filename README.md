@@ -10,19 +10,6 @@
 - [LinkedIn]:   [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayvanil/)](https://www.linkedin.com/in/akshayvanil/)
 
 
-<h2 align="left"> 💻 Coding Profiles:</h2>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/akshayvanil117"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.hackerearth.com/@akshayvanil117"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
-  <a href="https://leetcode.com/akshayvanil/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://www.codechef.com/users/follen_ghost"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
-  <a href="https://www.codewars.com/users/akshay117"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"><a/>
-  
-</p>
-
-
 <div align="left">
         <h2><img width="30" align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
@@ -59,13 +46,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code> -->
 
-<!-- LeetCode Stats Card ❤️ -->
-<h2 align="left"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
-<p align="left">
-  <a href="https://leetcode.com/akshayvanil" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=akshayvanil&theme=light&font=source_code_pro&extension=activity&border_radius=20"/>
-  </a>
-</p>
+<
  
 ## To know more about me :octocat:
  :point_right:  <a href="https://akshay117.github.io">akshay117.github.io</a>
