@@ -29,9 +29,7 @@
 </p>
     </div>
     
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=akshay117&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
-  </a>
+  
 </p>
 
 
