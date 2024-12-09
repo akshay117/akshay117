@@ -6,31 +6,7 @@
 - [LinkedIn]:   [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayvanil/)](https://www.linkedin.com/in/akshayvanil/)
 
 
-<div align="left">
-        <h2><img width="30" align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
-        </h2>
-    </div>
-    <br />
-    <div>
-            <p align="center">
-                <img height="160" alt="Aromal's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=akshay117&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Akshay's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay117&hide=assembly&layout=compact&theme=dark" />
-            </p>  
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay117"/>
-  </a>
-</p>
-    </div>
-    
-  
-</p>
 
-
-</div>
 
 
 ## Tools & Technologies :computer:
